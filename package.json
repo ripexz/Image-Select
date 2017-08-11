@@ -1,0 +1,19 @@
+{
+  "name": "image-select",
+  "version": "2.0.0",
+  "description": "Extension of Chosen that provides image support for Single and Multi select HTML tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ripexz/Image-Select.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ripexz/Image-Select/issues"
+  },
+  "homepage": "https://github.com/ripexz/Image-Select#readme"
+}
